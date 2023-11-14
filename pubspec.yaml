@@ -28,7 +28,8 @@ dependencies:
   flutter:
     sdk: flutter
   smart_auth:
-    path: ../Flutter_Pinput/smart/flutter_smart_auth
+    git:
+      url: https://github.com/ShahzodAtabayev/flutter_smart_auth.git
   universal_platform: ^1.0.0+1
 
 dev_dependencies:
